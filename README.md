@@ -3,7 +3,7 @@
 
 ## About Me
 I'm Head-Over-Heels for the Art of Programming, and I sprinkle digital glitter to create beautiful things by code!
-(Nvrmind bcs I'm a Google Search Maestro in the world of coding)
+(Nvrmind, I'm just Google Search Maestro in the world of coding)
 ## Skills
 
 - **Languages:** JavaScript, Python, Java
