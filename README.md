@@ -18,8 +18,8 @@ I'm Head-Over-Heels for the Art of Programming, and I sprinkle digital glitter t
 
 ## Find Me Around The Web
 - [LinkedIn](https://www.linkedin.com/in/dwi-abdi-putra-a738421ba)
-- [GitHub](Your GitHub Profile URL)
-- [Instagram](Your Twitter Profile URL)
+- [GitHub]((https://github.com/updee)
+- [Instagram](instagram.com/_____abdiip)
 
 Feel free to reach out to me at abdiiputra190901@gmail.com to discuss anything related to coding and programing.
 
