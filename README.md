@@ -2,9 +2,8 @@
 # Hi there, I'm Abdiip! 👋
 
 ## About Me
-I'm Devoted to the Art of Programming and I can create beautiful things by code. 
 I'm Head-Over-Heels for the Art of Programming, and I sprinkle digital glitter to create beautiful things by code!
-Nvrmind bcs I'm a Google Search Maestro in the world of coding.
+(Nvrmind bcs I'm a Google Search Maestro in the world of coding)
 ## Skills
 
 - **Languages:** JavaScript, Python, Java
@@ -15,7 +14,7 @@ Nvrmind bcs I'm a Google Search Maestro in the world of coding.
 
 
 ## Education
-- **Jambi University**, Information Systems, I have been enrolled in university from 2019 to the present.
+- **Jambi University**, Information Systems, I have been enrolled in University from 2019 to the present.
 
 ## Find Me Around The Web
 - [Personal Website](Your Website URL)
