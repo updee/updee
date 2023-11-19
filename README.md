@@ -1,9 +1,10 @@
 
-# Hi there, I'm Updee! 👋
+# Hi there, I'm Abdiip! 👋
 
 ## About Me
-I'm Devoted to the Art of Programming: and passionate about I can create beautiful things by code. 
-
+I'm Devoted to the Art of Programming and I can create beautiful things by code. 
+I'm Head-Over-Heels for the Art of Programming, and I sprinkle digital glitter to create beautiful things by code!
+Nvrmind bcs I'm a Google Search Maestro in the world of coding.
 ## Skills
 
 - **Languages:** JavaScript, Python, Java
@@ -14,7 +15,7 @@ I'm Devoted to the Art of Programming: and passionate about I can create beautif
 
 
 ## Education
-- **Jambi University**, Information Systems, 2019-present
+- **Jambi University**, Information Systems, I have been enrolled in university from 2019 to the present.
 
 ## Find Me Around The Web
 - [Personal Website](Your Website URL)
