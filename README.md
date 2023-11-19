@@ -9,8 +9,8 @@ I'm Head-Over-Heels for the Art of Programming, and I sprinkle digital glitter t
 - **Languages:** JavaScript, Python, Java
 - **Frontend:** React.js, Angular, Vue.js
 - **Backend:** Node.js, Django, Spring Boot
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Other Skills:** Git, Docker, RESTful APIs
+- **Databases:** MySQL
+- **Other Skills:** Git, Docker
 
 
 ## Education
