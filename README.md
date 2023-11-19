@@ -17,7 +17,7 @@ I'm Head-Over-Heels for the Art of Programming, and I sprinkle digital glitter t
 - **Jambi University**, Information Systems, I have been enrolled in University from 2019 to the present.
 
 ## Find Me Around The Web
-- [LinkedIn](Your LinkedIn Profile URL)
+- [LinkedIn]((https://www.linkedin.com/in/dwi-abdi-putra-a738421ba/))
 - [GitHub](Your GitHub Profile URL)
 - [Instagram](Your Twitter Profile URL)
 
